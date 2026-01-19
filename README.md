@@ -9,3 +9,8 @@ Before starting to paint, u need to create a new empty layer, preferably between
 Name it something like "Autotiles" (if you don't do this, the autotile will conflict with other layers and causes layer 1 to only give you a 3x3 black output).
 Select the layer and start placing your tiles. Once placed you need to click on the tile again to convert it into an autotile that connects with the other ones.
 Sometimes you need to click again in-between tiles to connect them.
+
+# Note
+It's important to remember which tile you assigned the autotile function to.
+
+Personally I would place a symbol into the tile right next to it, to symbolize that it's an autotile.
